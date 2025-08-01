@@ -1,3 +1,5 @@
 # assets
 
-[AU](https://discord.com/channels/1103864219620884560/1396850027426611240/1399735886257590364)
+Assets repo for Lyra builder.
+
+AU: [https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases](https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases)
